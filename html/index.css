@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Judith Noel Weil's profile</title>
+
+    <meta charset="UTF-8">
+
+    <meta name="description" content="This is the profile of Judith">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" src="https://kit.fontawesome.com/2514fc2f0e.js" crossorigin="anonymous">
+
+ 
+
+</head>
+
+ 
+
+<body>
+
+    <div class="maindiv">
+
+        <div id="introduction" class="card-white">
+
+            <h1>Hello, I'm Judith</h1>
+
+            <img src="images/profile-picture.png" alt="Judith Noel-Weil" class="img-circle">
+
+            <p>
+
+                I love cooking healthy, to hang out with my friends and <strong>go to parties</strong> !
+
+            </p>
+
+ 
+
+            <a href="https://www.lewagon.com/fr" target="_blank" class="btn-blue">Discover Le Wagon</a>
+
+        </div>
+
+ 
+
+        <div class="card-white">
+
+            <h2>Music and dance 💃</h2>
+
+            <p>
+
+                I love to dance since I'm child and music is a part of my life.
+
+            </p>
+
+        </div>
+
+ 
+
+        <div class="card-white">
+
+            <h2>Art and photography 📷</h2>
+
+            <p>
+
+                I have always been attracted to art and photography in different ways : street art, paints, pictures and draws.
+
+            </p>
+
+        </div>
+
+ 
+
+        <div class="card-white">
+
+            <h2>Languages 🗣️</h2>
+
+            <p>
+
+                I like to learn new languages such as english, spanish and portuguese but english is my favorite.
+
+            </p>
+
+        </div>
+
+ 
+
+        <div class="card-white">
+
+            <h2> Follow me</h2>
+
+            <ul class="list-inline">
+
+                <li>
+
+                    <a href="https://www.instagram.com/judithcieux" target="_blank">
+
+                        <i class="fab fa-instagram"></i>
+
+                    </a>
+
+                </li>
+
+                <li>
+
+                    <a href="https://www.facebook.com/judith.noelweil" target="_blank">
+
+                        <i class="fab fa-facebook-f"></i>
+
+                    </a>
+
+                </li>
+
+            </ul>
+
+        </div>
+
+ 
+
+    </div>
+
+</body>
+
+</html>
